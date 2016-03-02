@@ -1,0 +1,18 @@
+{
+  "name": "vfd_vaf1613",
+  "keywords": "vfd, vaf1613, vacuum, fluorescent, display",
+  "description": "Drive a VAF1613 vacuum flourescent display",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/derpston/vfd_vaf1613.git"
+  },
+  "version": "0.0.1",
+  "authors": {
+    "name": "Derp Ston",
+    "url": "http://github.com/derpston"
+  },
+  "exclude": [
+  ],
+  "frameworks": "arduino",
+  "platforms": "*"
+}
